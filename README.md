@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack & Tools
 
 **Core & Full-stack Development**
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,laravel,php,tailwind,inertia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,laravel,php,tailwind)](https://skillicons.dev)
 
 **Design & Creative Tools**
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,pr)](https://skillicons.dev)
