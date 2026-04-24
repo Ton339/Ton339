@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sithachad Krachaisri (สิษฐเชษฐ์ กระจายศรี)
 
-**A passionate Full-stack Developer and Software Engineering Student from Thailand**
+**A passionate Business Analysis and Software Engineering Student from Thailand**
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ton339&color=blue&style=flat-square)
 
 ### 👨‍💻 About Me
 
