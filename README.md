@@ -46,5 +46,5 @@
 
 ### 📫 Let's Connect
 
-* 📧 Email: your-email@example.com
-* 💻 GitHub: [@your-github-username](https://github.com/your-github-username)
+* 📧 Email: sithachad.krachaisri@gmail.com
+* 💻 GitHub: [Ton339](https://github.com/Ton339)
