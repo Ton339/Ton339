@@ -8,19 +8,32 @@
 
 * 🎓 **Education:** B.S. in Software Engineering, Burapha University
 * 🚀 **Current Focus:** Leading Business Analysis and Full-stack development for the *Life Path Simulator* project.
-* 💡 **Ask me about:** Full-stack development (Laravel, React, Inertia.js), UI/UX Design, and Photography.
-* ⚡ **Fun fact:** When I'm not coding, you can find me hunting monsters in *Monster Hunter Rise* or rolling dice in *Dungeons & Dragons*. I also once built my own Pokedex!
+* 💡 **Ask me about:** Full-stack development (Next.js, Laravel, React), UI/UX Design, and Photography.
+* ⚡ **Fun fact:** When I'm not coding, you can find me hunting monsters in *Monster Hunter Rise* or rolling dice in *Dungeons & Dragons*.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
+**Core & Full-stack Development**
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,laravel,php,tailwind,inertia)](https://skillicons.dev)
+
+**Design & Creative Tools**
+[![Design Tools](https://skillicons.dev/icons?i=figma,ps,pr)](https://skillicons.dev)
+
+**Utilities**
+[![Utilities](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+---
+
+### 📊 Details (Summary Table)
+
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Tailwind CSS, daisyUI, JavaScript |
-| **Backend & Architecture** | Laravel, PHP, Inertia.js |
-| **Design & Multimedia** | Figma, Adobe Premiere Pro, Photography |
-| **Tools** | Git, GitHub |
+| **Frontend** | Next.js, React, Tailwind CSS, JavaScript |
+| **Backend** | Laravel, PHP, Inertia.js |
+| **Creative** | Figma, Adobe Photoshop, Adobe Premiere Pro |
+| **Others** | Git, GitHub, Photography |
 
 ---
 
