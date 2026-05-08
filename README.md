@@ -7,9 +7,9 @@
 ### 👨‍💻 About Me
 
 * 🎓 **Education:** B.S. in Software Engineering, Burapha University
-* 🚀 **Current Focus:** Leading Business Analysis and Full-stack development for the *intern* project.
-* 💡 **Ask me about:** Full-stack development (Next.js, Laravel, React), UI/UX Design, and Photography.
-* ⚡ **Fun fact:** When I'm not coding, you can find me hunting monsters in *Monster Hunter Rise* or rolling dice in *Dungeons & Dragons*.
+* 🚀 **Current Focus:** Leading Business Analysis and Full-stack development for the *Life Path Simulator* project.
+* 💡 **Ask me about:** Full-stack development (Next.js, NestJS, Laravel, React), UI/UX Design, Docker, and Photography/Videography.
+* ⚡ **Fun fact:** When I'm not coding, you can find me hunting monsters in *Monster Hunter Rise*, rolling dice in *Dungeons & Dragons*, or geeking out over motorcycles.
 
 ---
 
@@ -17,15 +17,19 @@
 
 **Core & Full-stack Development**
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,laravel,php,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,nestjs,laravel,php,tailwind)](https://skillicons.dev)
+
+**Database, ORM & Infrastructure**
+
+[![Database & Infra](https://skillicons.dev/icons?i=postgres,mysql,prisma,docker)](https://skillicons.dev)
 
 **Design & Creative Tools**
 
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,pr)](https://skillicons.dev)
 
-**Utilities**
+**Utilities & API Tools**
 
-[![Utilities](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![Utilities](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 ---
 
@@ -33,18 +37,19 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | Next.js, React, Tailwind CSS, JavaScript |
-| **Backend** | Laravel, PHP, Inertia.js |
+| **Frontend** | Next.js, React, TypeScript, JavaScript, Tailwind CSS, DaisyUI |
+| **Backend** | NestJS, Laravel, PHP, Inertia.js |
+| **Database & ORM** | PostgreSQL, MySQL, Prisma, TypeORM |
+| **DevOps & API** | Docker, Postman |
 | **Creative** | Figma, Adobe Photoshop, Adobe Premiere Pro |
-| **Others** | Git, GitHub, Photography |
+| **Others** | Git, GitHub, Photography, Videography |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ton339&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ### 📫 Let's Connect
