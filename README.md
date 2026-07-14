@@ -7,9 +7,9 @@
 ### 👨‍💻 About Me
 
 * 🎓 **Education:** B.S. in Software Engineering, Burapha University
-* 🚀 **Current Focus:** Leading Business Analysis and Full-stack development for the *Life Path Simulator* project.
-* 💡 **Ask me about:** Full-stack development (Next.js, NestJS, Laravel, React), UI/UX Design, Docker, and Photography/Videography.
-* ⚡ **Fun fact:** When I'm not coding, you can find me hunting monsters in *Monster Hunter Rise*, rolling dice in *Dungeons & Dragons*, or geeking out over motorcycles.
+* 🚀 **Current Focus:** Leading Business Analysis and Full-stack development.
+* 💡 **Ask me about:** Full-stack development (Next.js, NestJS, Laravel), UI/UX Design, Docker, and Photography/Videography.
+* ⚡ **Fun fact:** When I'm not coding, you can find me hunting monsters in *Monster Hunter Rise*, rolling dice in *Dungeons & Dragons*, or geeking out over motorcycles and cooking.
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Core & Full-stack Development**
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,nestjs,laravel,php,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,js,ts,nestjs,laravel,php,tailwind)](https://skillicons.dev)
 
 **Database, ORM & Infrastructure**
 
@@ -37,8 +37,8 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | Next.js, React, TypeScript, JavaScript, Tailwind CSS, DaisyUI |
-| **Backend** | NestJS, Laravel, PHP, Inertia.js |
+| **Frontend** | Next.js, TypeScript, JavaScript, Tailwind CSS, DaisyUI, Shadcn/ui |
+| **Backend** | NestJS, Laravel, PHP|
 | **Database & ORM** | PostgreSQL, MySQL, Prisma, TypeORM |
 | **DevOps & API** | Docker, Postman |
 | **Creative** | Figma, Adobe Photoshop, Adobe Premiere Pro |
