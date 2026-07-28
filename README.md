@@ -29,7 +29,7 @@
 
 **Utilities & API Tools**
 
-[![Utilities](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+[![Utilities](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)](https://skillicons.dev)
 
 ---
 
@@ -40,7 +40,7 @@
 | **Frontend** | Next.js, TypeScript, JavaScript, Tailwind CSS, DaisyUI, Shadcn/ui |
 | **Backend** | NestJS, Laravel, PHP|
 | **Database & ORM** | PostgreSQL, MySQL, Prisma, TypeORM |
-| **DevOps & API** | Docker, Postman |
+| **DevOps & API** | Docker, Postman , Vercel |
 | **Creative** | Figma, Adobe Photoshop, Adobe Premiere Pro |
 | **Others** | Git, GitHub, Photography, Videography |
 
